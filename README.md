@@ -1,4 +1,4 @@
-EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
+## EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 ## DATE:17-03-2026
 ## REGISTER NUMBER:25017546
 ## NAME;LINGESH D
